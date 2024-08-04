@@ -2,36 +2,36 @@
 
 
 ## Overview
-This project is a full-stack web application inspired by Meesho, built with React.js, and node.js to provide a seamless and visually appealing shopping experience. The app allows users to browse products, manage their cart, and handle user authentication efficiently. The project integrates modern design principles and robust state management to ensure a smooth and responsive user interface
+This full-stack web application, inspired by Meesho, is developed using React.js and Node.js to deliver a seamless and visually engaging shopping experience. It enables users to browse products, manage their carts, and handle authentication with ease. The project combines modern design principles with robust state management to ensure a smooth and responsive user interface.
 
 ## Link
 - **The Frontend of the application**: []
-- **The Backend of the application**: []
+- **The Backend of the application**: [https://meesho-backend-eight.vercel.app/]
 - **API Documentation** : - [https://documenter.getpostman.com/view/27285848/2sA3rwNEPT]
   
 ## Screenshots
 ### 1]Home Page
 
-![image](https://github.com/priya1599/Meesho-WebApp/assets/128911820/328f3603-c00d-4da6-8dbb-c0debc00d23d)
+![image](https://github.com/user-attachments/assets/1e5865b9-020b-4418-bbe4-56cbc4f14872)
 
 ### 2] All Product Details
-![image](https://github.com/priya1599/Messho-webapp-Backend/assets/128911820/ccf9a1f5-e1bb-4967-9c8f-9c6e787fef21)
+![image](https://github.com/user-attachments/assets/02deda0c-bace-45c6-aec5-fa200c705c19)
 
 
 ### 3] Login Page
-![image](https://github.com/priya1599/Meesho-WebApp/assets/128911820/edf4e3c5-99b5-48b2-a430-af4935196bb7)
+![image](https://github.com/user-attachments/assets/60b3ef5f-7e3f-43a5-b737-ec05fb28cb22)
 
 ### 4]Register Page
-![image](https://github.com/priya1599/Meesho-WebApp/assets/128911820/9fe32599-3986-4c84-a20e-f99590cf65d4)
+![image](https://github.com/user-attachments/assets/1e26934b-db8f-4d56-b0c3-db2a82041f94)
 
 ### 5]Add To Cart
-![image](https://github.com/priya1599/Meesho-WebApp/assets/128911820/9478833f-7989-44ef-841a-66b6e8c8745e)
+![image](https://github.com/user-attachments/assets/679519b0-31bc-4b64-a7ad-337b3335e666)
 
 
 ## Technologies used
 
-- **Node.js:** A runtime environment that executes JavaScript code on the server-side.
-- **Express.js:** A node.js framework for building web applications and RESTful API.
+- **Node.js:**A runtime environment that executes JavaScript code on the server side
+- **Express.js:** A framework for Node.js used to build web applications and RESTful APIs.
 - **MongoDB:** Is a NoSQL Database system that stores and manages data in JSON-like format.
 - **Vercel:** For Frontend Deployment
 - **Render:** For Backend Deployment
@@ -57,8 +57,8 @@ To run this project locally, make sure you have the following installed:
 
 ### **Clone the repository:**
 ```bash
-git clone https://github.com/priya1599/Messho-webapp-Backend/
-cd Meesho-webapp-Backend
+git clone https://github.com/Shekharsuman689/Meesho-Backend.git
+cd Meesho-Backend
 ```
 
 ### **Install the dependencies:**
@@ -83,18 +83,17 @@ npm run build
 ### Development Process
 
 Meesho WebApp was developed to provide users with a seamless shopping experience, leveraging modern web development technologies and best practices. The development process involved several key steps:
+1. **Planning and Design:** A detailed plan and design were developed before coding began, outlining the app's structure, features, and user interface. Wireframes and mockups were created to visualize the final product.
 
-1. **Planning and Design:** Before diving into coding, a comprehensive plan and design were laid out to determine the app's structure, features, and user interface. Wireframes and mockups were created to visualize the final product.
+2. **Setting up the Environment:** The development environment was equipped with essential tools and libraries. React, Redux Toolkit, Tailwind CSS, and Firebase were selected as the core technologies for building the app.
 
-2. **Setting up the Environment:** The development environment had the necessary tools and libraries. React, Redux Toolkit, Tailwind CSS, and Firebase were chosen as the primary technologies for building the app.
+3. **Feature Implementation:** Key features such as authentication, cart management, product display, category filtering, and order management were implemented with a focus on user experience and functionality.
 
-3. **Feature Implementation:** Features such as authentication, cart management, product showcasing, category-wise filtering, and order management were implemented focusing on user experience and functionality.
+4. **Testing and Debugging:** Rigorous testing and debugging were performed throughout development to identify and resolve issues. Cross-browser and device testing ensured compatibility and responsiveness.
 
-4. **Testing and Debugging:** Throughout the development process, rigorous testing and debugging were conducted to identify and fix any issues or bugs. Cross-browser and device testing ensured compatibility and responsiveness.
+5. **Optimization and Performance:** Performance optimization techniques were applied to enhance the app’s speed and efficiency. Code splitting, lazy loading, and image optimization were used to reduce loading times and improve overall performance.
 
-5. **Optimization and Performance:** Performance optimization techniques were employed to enhance the app's speed and efficiency. Code splitting, lazy loading, and image optimization were implemented to minimize loading times and improve overall performance.
-
-6. **Documentation:** Comprehensive documentation was created to guide developers and users through the application's setup, usage, and deployment. This documentation provides clear instructions and explanations for each step, making it easy for developers and users to understand and utilize the app effectively.
+6. **Documentation:** Comprehensive documentation was created to guide both developers and users through the app’s setup, usage, and deployment. It includes clear instructions and explanations for each step, facilitating effective understanding and use of the app.
 
 **API Documentation** : - [https://documenter.getpostman.com/view/27285848/2sA3rwNEPT]
 
