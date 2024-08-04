@@ -6,7 +6,7 @@ This full-stack web application, inspired by Meesho, is developed using React.js
 
 ## Link
 - **The Frontend of the application**: [https://meesho-front-integrating.vercel.app/]
-- **The Backend of the application**: [https://meesho-backend-eight.vercel.app/]
+- **The Backend of the application**: [https://meesho-backend-1qyx.onrender.com]
 - **API Documentation** : - [https://documenter.getpostman.com/view/27285848/2sA3rwNEPT]
   
 ## Screenshots
